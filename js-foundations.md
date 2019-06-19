@@ -29,7 +29,7 @@
     git push 
 
 7. What is the terminal command to move directories?
-    mv
+    cd
 
 8. Do you have a suggestion for a Check In question?
     

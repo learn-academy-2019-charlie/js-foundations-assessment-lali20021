@@ -8,7 +8,7 @@ const divBy3 = (number) => {
       return (number + " is not divisible by 3");
   }
 }
-console.log(divBy3());
+console.log(divBy3(6));
 
 // 2. Write an object called helloMe. Include your first_name, last_name and at least two other properties of you. Write a function that returns a description of you.
 class HelloMe{
